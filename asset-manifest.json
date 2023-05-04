@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/DIY-countdown/static/css/main.ba4b8353.css",
+    "main.js": "/DIY-countdown/static/js/main.72195001.js",
+    "index.html": "/DIY-countdown/index.html",
+    "main.ba4b8353.css.map": "/DIY-countdown/static/css/main.ba4b8353.css.map",
+    "main.72195001.js.map": "/DIY-countdown/static/js/main.72195001.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ba4b8353.css",
+    "static/js/main.72195001.js"
+  ]
+}
