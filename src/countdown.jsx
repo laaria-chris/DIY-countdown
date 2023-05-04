@@ -20,7 +20,7 @@ export const Countdown = () => {
     const changingDate = new Date(inputDate);
     // Get the current date and time
     const currentDate = new Date();
-    // Calculate the total number of seconds between inputDate and currentDate
+    // Calculate the total number of seconds in between inputDate and currentDate
     const totalSeconds = (changingDate - currentDate) / 1000;
 
     // Update the state variables with the calculated countdown values
